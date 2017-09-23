@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+rmc () 
+{ 
+    eval "rm -rf ./mocks"
+}
+rmc

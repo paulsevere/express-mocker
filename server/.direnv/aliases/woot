@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+woot () 
+{ 
+    echo woot
+}
+woot
